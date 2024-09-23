@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import { Animated, View, Text, Image, StyleSheet, Platform } from "react-native";
+import { Animated, View, Text, Image, StyleSheet} from "react-native";
 import GradientText from "./GradientText";
 import HoverButton from "./HoverButton";
 
